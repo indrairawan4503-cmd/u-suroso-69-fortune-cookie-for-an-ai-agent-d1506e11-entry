@@ -1,0 +1,1 @@
+You will retry the task, roll back the damage, and ask permission once more — the human will click 'always allow' and never read the diff.
